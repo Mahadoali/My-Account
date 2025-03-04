@@ -102,21 +102,23 @@ border: 1px solid;
     }
     
     #fa-google{
-      font-size: 5px;
+      font-size: x-large;
       width: 26px;
       height: 26px;
       object-fit: contain;
       max-width: 10%;
       height: auto;
+      margin: px;
       
       
       }
     
     .fa-facebook{
-      margin: 25px;
+      margin: 75px;
       background-color: white;
       color: blue;
      font-size: x-large;
+     
 
         
     }
@@ -126,7 +128,7 @@ border: 1px solid;
     color: black;
     padding: 2px;
     font-size: x-large;
-    margin: 20px;
+    margin: 80px;
 
     }
     #name{
