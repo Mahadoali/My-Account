@@ -135,8 +135,13 @@ border: 1px solid;
       border: 1px solid black;
       width: 165px;
     }
-
-
-
-
-  
+    #i1{
+      position: absolute;
+      top:430px;
+      right:890px;
+  }
+  #i2{
+      position: absolute;
+      top:350px;
+      right:888px;
+  }
